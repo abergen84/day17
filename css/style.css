@@ -1,5 +1,5 @@
 #container{
-	background-color: red;
+	background-color: lightgray;
 	max-height: 100%;
 	max-width: 100%
 	display: block;
@@ -29,7 +29,7 @@ h1{
 #left-column{
 	color: black;
 	margin-top: 15px;
-	background-color: cyan;
+	background-color: white;
 	display: inline-block;
 	border-color: black;
 	height: 75%;
@@ -39,8 +39,7 @@ h1{
 
 #right-column{
 	display: inline-block;
-	color: black;
-	background-color: red;
+	background-color: white;
 
 }
 
@@ -52,5 +51,6 @@ h1{
 	width: 600px;
 	margin: 0 auto;
 	padding: 3px;
+	position: 0 auto;
 
 }

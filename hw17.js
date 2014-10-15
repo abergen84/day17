@@ -18,6 +18,7 @@ var someHtmlString = [
             "<li> location: {location} </li>",
             "<li> email: {email} </li>",
         "</ul>",
+        "<img src='{followers_url}'>",
     ].join("");
   
 
